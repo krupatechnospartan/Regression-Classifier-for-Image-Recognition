@@ -1,3 +1,8 @@
+Regression-Classifier-for-Image-Recognition
+
+A coding in Octave, also compatible with Matlab that allows binary classification of images 
+based on Logistic Regression classifier.
+
 REQUIREMENTS:
 
 OCTAVE TOOL with image processing capabilities
