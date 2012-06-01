@@ -5,4 +5,26 @@ based on Logistic Regression classifier.
 
 REQUIREMENTS:
 
-OCTAVE TOOL with image processing capabilities
+OCTAVE TOOL with image processing tool installed
+
+PROCEDURE:
+
+Unzip the REGCLASS file to the bin directory in the Octave folder
+
+Put the images for training/test data as 200x200 pixels grayscale images in the IMGBACKUP folder
+
+Replace the existing names with the names of the images in the datasett file
+
+Replace the BASKETBALL/NOT BASKETBALL in the exercise file with required classifier
+
+Run the Octave program
+
+Switch to the directory using cd C:\Octave\3.2.4_gcc-4.4.0\bin\self command
+
+Type exercise in the command prompt
+
+Follow the prompt
+
+Enter the name of the file you want to identify
+
+Repeat the last step for all the classifications
