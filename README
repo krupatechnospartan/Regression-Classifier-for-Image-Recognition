@@ -11,7 +11,7 @@ PROCEDURE:
 
 Unzip the REGCLASS file to the bin directory in the Octave folder
 
-Put the images for training/test data as 200x200 pixels grayscale images in the IMGBACKUP folder
+Put the images for training/test data as grayscale images of any size in the IMGBACKUP folder
 
 Replace the existing names with the names of the images in the datasett file
 
@@ -28,3 +28,17 @@ Follow the prompt
 Enter the name of the file you want to identify
 
 Repeat the last step for all the classifications
+
+UPDATE:
+
+The regressionclassifiernew set of programs are capable of handling any image of any size and can be used widely 
+for any classification 
+
+Follow the same procedure as above with any image of your discretion
+
+The compatibility with MATLAB is restricted to a few older versions and will be updated soon 
+Octave is an open source mathematical tool which can be downloaded and installed for free from the internet 
+from the following link
+http://www.gnu.org/software/octave/download.html
+
+The installation can be carried out with default options except inclusion of image property.  
